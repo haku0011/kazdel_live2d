@@ -2,7 +2,7 @@
 /******/ 	"use strict";
 /******/ 	var __webpack_modules__ = ({
 
-/***/ "src/spine_runtime/SkeletonBinary3.5.js":
+/***/ "./src/spine_runtime/SkeletonBinary3.5.js":
 /*!************************************************!*\
   !*** ./src/spine_runtime/SkeletonBinary3.5.js ***!
   \************************************************/
@@ -821,7 +821,7 @@ var RotateMode = ["tangent", "chain", "chainScale"];
 
 /***/ }),
 
-/***/ "src/spine_runtime/spine-widget.js":
+/***/ "./src/spine_runtime/spine-widget.js":
 /*!*******************************************!*\
   !*** ./src/spine_runtime/spine-widget.js ***!
   \*******************************************/
